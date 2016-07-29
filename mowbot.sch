@@ -5520,38 +5520,38 @@ Source: www.bourns.com .. 6000_series.pdf</description>
 <library name="onion_omega">
 <packages>
 <package name="ONION_OMEGA">
-<pad name="16" x="0" y="0" drill="0.8" shape="octagon"/>
-<pad name="15" x="0" y="2" drill="0.8" shape="octagon"/>
-<pad name="14" x="0" y="4" drill="0.8" shape="octagon"/>
-<pad name="13" x="0" y="6" drill="0.8" shape="octagon"/>
-<pad name="12" x="0" y="8" drill="0.8" shape="octagon"/>
-<pad name="11" x="0" y="10" drill="0.8" shape="octagon"/>
-<pad name="10" x="0" y="12" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="9" x="0" y="14" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="8" x="0" y="16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="7" x="0" y="18" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="6" x="0" y="20" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="5" x="0" y="22" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="4" x="0" y="24" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="3" x="0" y="26" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="2" x="0" y="28" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="1" x="0" y="30" drill="0.8" shape="square"/>
-<pad name="17" x="24.4" y="0" drill="0.8" shape="octagon"/>
-<pad name="18" x="24.4" y="2" drill="0.8" shape="octagon"/>
-<pad name="19" x="24.4" y="4" drill="0.8" shape="octagon"/>
-<pad name="20" x="24.4" y="6" drill="0.8" shape="octagon"/>
-<pad name="21" x="24.4" y="8" drill="0.8" shape="octagon"/>
-<pad name="22" x="24.4" y="10" drill="0.8" shape="octagon"/>
-<pad name="23" x="24.4" y="12" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="24" x="24.4" y="14" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="25" x="24.4" y="16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="26" x="24.4" y="18" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="27" x="24.4" y="20" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="28" x="24.4" y="22" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="29" x="24.4" y="24" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="30" x="24.4" y="26" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="31" x="24.4" y="28" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="32" x="24.4" y="30" drill="0.8" shape="square"/>
+<pad name="16" x="-12.2" y="-15" drill="0.8" shape="octagon"/>
+<pad name="15" x="-12.2" y="-13" drill="0.8" shape="octagon"/>
+<pad name="14" x="-12.2" y="-11" drill="0.8" shape="octagon"/>
+<pad name="13" x="-12.2" y="-9" drill="0.8" shape="octagon"/>
+<pad name="12" x="-12.2" y="-7" drill="0.8" shape="octagon"/>
+<pad name="11" x="-12.2" y="-5" drill="0.8" shape="octagon"/>
+<pad name="10" x="-12.2" y="-3" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="9" x="-12.2" y="-1" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="8" x="-12.2" y="1" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="7" x="-12.2" y="3" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="6" x="-12.2" y="5" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="5" x="-12.2" y="7" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="4" x="-12.2" y="9" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="3" x="-12.2" y="11" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="2" x="-12.2" y="13" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="1" x="-12.2" y="15" drill="0.8" shape="square"/>
+<pad name="17" x="12.2" y="-15" drill="0.8" shape="octagon"/>
+<pad name="18" x="12.2" y="-13" drill="0.8" shape="octagon"/>
+<pad name="19" x="12.2" y="-11" drill="0.8" shape="octagon"/>
+<pad name="20" x="12.2" y="-9" drill="0.8" shape="octagon"/>
+<pad name="21" x="12.2" y="-7" drill="0.8" shape="octagon"/>
+<pad name="22" x="12.2" y="-5" drill="0.8" shape="octagon"/>
+<pad name="23" x="12.2" y="-3" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="24" x="12.2" y="-1" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="25" x="12.2" y="1" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="26" x="12.2" y="3" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="27" x="12.2" y="5" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="28" x="12.2" y="7" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="29" x="12.2" y="9" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="30" x="12.2" y="11" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="31" x="12.2" y="13" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="32" x="12.2" y="15" drill="0.8" shape="square"/>
 </package>
 </packages>
 <symbols>
@@ -5719,8 +5719,6 @@ Source: http://www.nxp.com/acrobat_download/datasheets/PH7030L_4.pdf</descriptio
 <smd name="3" x="0.635" y="-2.65" dx="0.7" dy="1.4" layer="1"/>
 <smd name="4" x="1.905" y="-2.65" dx="0.7" dy="1.4" layer="1"/>
 <smd name="MB" x="0" y="1" dx="5" dy="4.3" layer="1" cream="no"/>
-<text x="-3.175" y="-1.905" size="1.27" layer="25" rot="R90">&gt;NAME</text>
-<text x="4.445" y="-1.905" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 <rectangle x1="-2.155" y1="-3.1" x2="-1.655" y2="-2.05" layer="51"/>
 <rectangle x1="-2.205" y1="-2.8" x2="-1.605" y2="-2.175" layer="51"/>
 <rectangle x1="-0.885" y1="-3.1" x2="-0.385" y2="-2.05" layer="51"/>
@@ -6006,8 +6004,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="Q8" gate="G$1" x="76.2" y="22.86" smashed="yes">
 <attribute name="NAME" x="82.55" y="25.4" size="1.778" layer="95"/>
 </instance>
-<instance part="SL1" gate="G$1" x="96.52" y="114.3" rot="R270"/>
-<instance part="SL2" gate="G$1" x="96.52" y="48.26" rot="R270"/>
+<instance part="SL1" gate="G$1" x="96.52" y="111.76" rot="R270"/>
+<instance part="SL2" gate="G$1" x="96.52" y="45.72" rot="R270"/>
 <instance part="P+1" gate="1" x="78.74" y="114.3"/>
 <instance part="P+2" gate="1" x="116.84" y="114.3"/>
 <instance part="P+3" gate="1" x="78.74" y="48.26"/>
@@ -6258,7 +6256,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="78.74" y1="99.06" x2="78.74" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="SL1" gate="G$1" pin="1"/>
 <wire x1="78.74" y1="96.52" x2="78.74" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="96.52" y1="106.68" x2="96.52" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="104.14" x2="96.52" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="96.52" x2="96.52" y2="96.52" width="0.1524" layer="91"/>
 <junction x="78.74" y="96.52"/>
 <label x="78.74" y="96.52" size="1.778" layer="95" rot="R180"/>
@@ -6276,7 +6274,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="78.74" y1="33.02" x2="78.74" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="SL2" gate="G$1" pin="1"/>
 <wire x1="78.74" y1="30.48" x2="78.74" y2="27.94" width="0.1524" layer="91"/>
-<wire x1="96.52" y1="40.64" x2="96.52" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="96.52" y1="38.1" x2="96.52" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="96.52" y1="30.48" x2="78.74" y2="30.48" width="0.1524" layer="91"/>
 <junction x="78.74" y="30.48"/>
 <label x="78.74" y="30.48" size="1.778" layer="95" rot="R180"/>
@@ -6295,7 +6293,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="SL2" gate="G$1" pin="2"/>
 <wire x1="116.84" y1="30.48" x2="116.84" y2="27.94" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="30.48" x2="99.06" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="99.06" y1="30.48" x2="99.06" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="30.48" x2="99.06" y2="38.1" width="0.1524" layer="91"/>
 <junction x="116.84" y="30.48"/>
 <label x="116.84" y="30.48" size="1.778" layer="95"/>
 </segment>
@@ -6308,14 +6306,14 @@ In this library the device names are the same as the pin names of the symbols, t
 </segment>
 <segment>
 <pinref part="Q1" gate="G$1" pin="S"/>
-<pinref part="Q2" gate="G$1" pin="D"/>
 <wire x1="116.84" y1="99.06" x2="116.84" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="SL1" gate="G$1" pin="2"/>
-<wire x1="116.84" y1="96.52" x2="116.84" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="99.06" y1="106.68" x2="99.06" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="104.14" x2="99.06" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="96.52" x2="116.84" y2="96.52" width="0.1524" layer="91"/>
-<junction x="116.84" y="96.52"/>
 <label x="116.84" y="96.52" size="1.778" layer="95"/>
+<pinref part="Q2" gate="G$1" pin="D"/>
+<wire x1="116.84" y1="93.98" x2="116.84" y2="96.52" width="0.1524" layer="91"/>
+<junction x="116.84" y="96.52"/>
 </segment>
 </net>
 <net name="AIN1" class="0">
@@ -6369,15 +6367,15 @@ In this library the device names are the same as the pin names of the symbols, t
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="Q2" gate="G$1" pin="S"/>
 <wire x1="78.74" y1="78.74" x2="96.52" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="96.52" y1="78.74" x2="116.84" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="116.84" y1="78.74" x2="116.84" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="Q6" gate="G$1" pin="S"/>
 <wire x1="78.74" y1="78.74" x2="78.74" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="Q10" gate="G$1" pin="S"/>
 <wire x1="96.52" y1="76.2" x2="96.52" y2="78.74" width="0.1524" layer="91"/>
 <junction x="96.52" y="78.74"/>
+<pinref part="Q2" gate="G$1" pin="S"/>
+<wire x1="116.84" y1="78.74" x2="116.84" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

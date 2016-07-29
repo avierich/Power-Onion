@@ -347,7 +347,7 @@ UsedLibrary="onion_omega.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="144 129 867 707"
+Loc="477 135 1540 910"
 State=2
 Number=0
 
